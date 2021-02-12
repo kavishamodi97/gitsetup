@@ -10,7 +10,9 @@ public class GitsetupApplication {
         SpringApplication.run(GitsetupApplication.class, args);
         System.out.println("Fix Bug-1");
         System.out.println("Fix Bug-2");
+        System.out.println("Feature 1");
+        System.out.println("Feature 2");
     }
-
 }
 
+git status
