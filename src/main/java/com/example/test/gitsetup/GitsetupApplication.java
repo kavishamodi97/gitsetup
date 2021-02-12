@@ -8,6 +8,9 @@ public class GitsetupApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(GitsetupApplication.class, args);
+        System.out.println("Fix Bug-1");
+        System.out.println("Fix Bug-2");
     }
 
 }
+
